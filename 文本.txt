@@ -1,0 +1,15 @@
+2026-08-27 12:20:12 +0000 SCOPE: UIKit host + original grcDevice Metal clear backend; NOT full game.
+2026-08-27 12:20:12 +0000 MACHINE: iPhone11,6; kernel=24.5.0
+2026-08-27 12:20:12 +0000 IOS: 18.5; BUNDLE: org.rageport.metalhost; MAIN_THREAD: YES
+2026-08-27 12:20:12 +0000 METAL_SYMBOL_IMAGE: /System/Library/Frameworks/Metal.framework/Metal
+2026-08-27 12:20:12 +0000 No extra entitlements or system configuration changes requested by this test.
+2026-08-27 12:20:12 +0000 FOREGROUND_START: 1242 x 2688 pixels
+2026-08-27 12:20:12 +0000 DEVICE_AVAILABLE: Apple A12 GPU
+2026-08-27 12:20:12 +0000 ENGINE_INIT_STARTED: real grcDevice::InitClass
+2026-08-27 12:20:12 +0000 ENGINE_INIT_COMPLETE
+2026-08-27 12:20:12 +0000 GPU_FRAME_COMPLETED: 1; presentDrawable requested. Verify the background visually.
+2026-08-27 12:20:15 +0000 GPU_FRAME_COMPLETED: 30; presentDrawable requested. Verify the background visually.
+2026-08-27 12:20:17 +0000 GPU_FRAME_COMPLETED: 60; presentDrawable requested. Verify the background visually.
+2026-08-27 12:20:21 +0000 GPU_FRAME_COMPLETED: 120; presentDrawable requested. Verify the background visually.
+2026-08-27 12:20:21 +0000 TEST_PAUSED: 120 GPU submissions completed. Onscreen visibility requires user confirmation; no scene/shader/readback validation.
+2026-08-27 12:20:35 +0000 USER_EXPORT_LOG
